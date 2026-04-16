@@ -31,7 +31,8 @@ mientras avanzo en mi formación técnica.
 
 **Desarrollo de Software**
 Fundamentos de programación orientada a objetos, estructuras de datos y
-lógica de programación aplicada en Python y Java.
+lógica de programación aplicada en Python y Java. Conocimientos básicos
+en SQL para consultas y manejo de bases de datos relacionales.
 
 **Desarrollo Web**
 Construcción de interfaces web con HTML5, CSS3 y JavaScript.
@@ -63,7 +64,7 @@ Experiencia con archivos CSV y análisis geográfico y logístico.
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Email-sebasri92%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sebasri92@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebasti%C3%A1n%20R%C3%ADos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebitasrios)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebasti%C3%A1n%20R%C3%ADos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianriosdev/)
 [![GitHub](https://img.shields.io/badge/GitHub-sebitasrios-181717?style=flat&logo=github&logoColor=white)](https://github.com/sebitasrios)
 
 ---
