@@ -65,10 +65,3 @@ Fourth-semester Software Development Technology student at ITM, with prior exper
 ---
 
 *Open to opportunities in software development and web development.*
-s-181717?style=flat&logo=github&logoColor=white)](https://github.com/sebitasrios)
-
----
-
-<p align="center">
-  <i>Open to opportunities in software development and web development.</i>
-</p>
