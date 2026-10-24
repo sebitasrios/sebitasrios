@@ -8,7 +8,7 @@
 
 ## About Me
 
-Fourth-semester Software Development Technology student at ITM, with prior experience in surveying and administration. I have basic knowledge of object-oriented programming, web interface design and databases, and I stand out for my fast learning, logical thinking and problem-solving orientation. I'm building my portfolio with real projects while I keep training in programming, web development and networking.
+Fourth-semester Software Development Technology student at ITM, with prior experience in surveying and administration. I'm aiming to become a Junior Backend Developer with a focus on cybersecurity, and Python is my main tool: backend fundamentals, data analysis, automated testing and secure coding practices. I also have hands-on experience in web development and one Java project with Spring Boot. I document my work on GitHub.
 
 ---
 
@@ -29,11 +29,13 @@ Fourth-semester Software Development Technology student at ITM, with prior exper
 
 ## Focus Areas
 
-**Software Development:** fundamentals of object-oriented programming, data structures and programming logic in Python and Java. Basic SQL for queries and relational databases.
+**Backend with Python:** input validation and unit tests with `unittest`, plus a learning track on APIs, databases and secure development.
 
-**Web Development:** web interfaces with HTML5, CSS3 and JavaScript, with semantic structure.
+**Data analysis:** analysis with Python and dynamic dashboards embedded in a web page.
 
-**Networks & Security (learning):** Cybersecurity and Networks course with Cisco Systems.
+**Cybersecurity (learning):** Cybersecurity and Networks course with Cisco Systems, and secure coding practices applied to my backend exercises.
+
+**Web development:** HTML5, CSS3 and JavaScript.
 
 ---
 
@@ -41,10 +43,9 @@ Fourth-semester Software Development Technology student at ITM, with prior exper
 
 | Repository | Description | Technologies |
 |---|---|---|
-| [ruta-python](https://github.com/sebitasrios/ruta-python) | Python learning path with exercises and projects, including a user sign-up validator with unit tests | Python |
-| [CARGO-COLOMBIA](https://github.com/sebitasrios/CARGO-COLOMBIA) | Landing page for a transport company (Talento Tech training project) | HTML, CSS, JavaScript |
-| [inventario-belleza](https://github.com/sebitasrios/inventario-belleza) | TODO: one-line description | Java |
-| [api-chequeo](https://github.com/sebitasrios/api-chequeo) | TODO: one-line description | Java |
+| [ruta-python](https://github.com/sebitasrios/ruta-python) | Python learning path, including a Backend & Cybersecurity track (in progress) with a user sign-up validator and unit tests | Python |
+| [CARGO-COLOMBIA](https://github.com/sebitasrios/CARGO-COLOMBIA) | Website for a transport company, adapted from the Logis Bootstrap template, with a data analysis section: Python analysis and dynamic dashboards | HTML, CSS, JavaScript, Python |
+| [inventario-belleza](https://github.com/sebitasrios/inventario-belleza) | Inventory API built with Spring Boot and Maven, documented with Swagger | Java |
 
 ---
 
@@ -64,4 +65,4 @@ Fourth-semester Software Development Technology student at ITM, with prior exper
 
 ---
 
-*Open to opportunities in software development and web development.*
+*Open to opportunities in backend development with Python.*
